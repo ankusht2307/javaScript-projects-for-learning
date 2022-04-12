@@ -2,7 +2,7 @@
 
 Project ideas for learing javaScript.
 
-## projects
+## Projects
 
 1. Forms
 ## Description
